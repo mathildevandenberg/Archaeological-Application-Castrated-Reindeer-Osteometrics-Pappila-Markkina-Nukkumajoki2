@@ -1,1 +1,16 @@
 # Archaeological-Application-Castrated-Reindeer-Osteometrics-Pappila-Markkina-Nukkumajoki2
+
+Osteometric and statistical results of Simple Variable Combinations and iSizes predictive modelling of the archaeological reindeer bone assemblages of Pappila, Markkina, and Nukkumajoki 2.
+
+Title: First archaeological evidence of reindeer (Rangifer tarandus) castration as domestication among the Sámi of Northern Fennoscandia from the site of Markkina, Enontekiö 
+Authors: Mathilde van den Berg (1), Henri Wallen (2), Anna-Kaisa Salmi (3)
+
+1 Corresponding author: mathilde.vandenberg@oulu.fi. Archaeology, History, Culture and Communication Studies, Faculty of Humanities, University of Oulu, Oulu, Finland. ORCID ID: 0000-0002-8087-7552 
+2 Archaeology, History, Culture and Communication Studies, Faculty of Humanities, University of Oulu, Oulu, Finland; Arctic Centre, University of Lapland. ORCID ID: 0000-0002-8584-8398
+3 Archaeology, History, Culture and Communication Studies, Faculty of Humanities, University of Oulu, Oulu, Finland. ORCID ID: 0000-0002-0745-385X
+
+Abstract: This study aims to identify castrated reindeer bones from three archaeological sites in Sápmi, in the present-day region of northern Finland through the application of osteometric analysis of the post-cranial skeleton and visual morphological analysis of antler attachment sites. The objective is to evaluate novel methodological frameworks that can enhance our understanding of ancient human-reindeer relationships through the detection of reindeer castration. Reindeer castration is a traditional practice that played an essential role in the domestication of reindeer and is currently still a key aspect in reindeer training, taming, control, care, and management. We analysed reindeer remains from the winter market places Markkina, Enontekiö (1604-1826 AD) and Pappila, Utsjoki (1600-1700 AD), and the Sámi dwelling site of Nukkumajoki 2, Inari (1480-1580 AD). The morphological analysis of antler attachment sites identified two castrated reindeer antlers from the archaeological site of Markkina. This provides support for the hypothesis of reindeer management practices that included castration and provides the first conclusive empirical evidence of reindeer castration from ancient bone assemblages. The osteometric analysis was unable to detect reindeer castration due to the confounding effects of the presence of multiple ecotypes/varieties within the same bone assemblages. Consequently, future studies should be complemented with molecular analysis for improved accuracy. The study highlights the difficulties in identifying castrated reindeer within ancient bone assemblages and suggests the necessity for further methodological application and development. This study represents a pioneering effort to investigate the methodological potential for the detection of castrated reindeer remains from archaeological sites.
+
+Definitions and explanations of the variables (measurements) can be found in Table 2 and Fig. 3 till 9 of Van den Berg et al. (2023).
+
+Van den Berg, M., Wallen, H., & Salmi, A. K. (2023). The osteometric identification of castrated reindeer (Rangifer tarandus) and the significance of castration in tracing human-animal relationships in the North. Archaeological and Anthropological Sciences, 15(1), 3.
